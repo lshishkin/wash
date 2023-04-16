@@ -44,6 +44,7 @@ export const CarouselPage = () => {
       >
         <Image
           src="/slide3.jpeg"
+          alt="photo3"
           width={900}
           height={600}
           className={classes.image}
@@ -51,6 +52,7 @@ export const CarouselPage = () => {
 
         <Image
           src="/slide2.jpeg"
+          alt="photo2"
           width={900}
           height={600}
           className={classes.image}
@@ -58,6 +60,7 @@ export const CarouselPage = () => {
 
         <Image
           src="/slide1.jpeg"
+          alt="photo1"
           width={900}
           height={600}
           className={classes.image}
