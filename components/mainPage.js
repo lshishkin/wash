@@ -33,10 +33,10 @@ export const MainPage = () => {
         height: "calc(100% - 40px)",
         alignItems: "center",
       }}>
-        <Typography variant="h2" className={classes.title}>
+        <Typography variant="h2" className={classes.title} style={{ fontWeight: "bold!important", marginBottom: "20px!important" }}>
           Мойка грузовых автомобилей
         </Typography>
-        <Typography variant="h4" className={classes.title}>
+        <Typography variant="h4" className={classes.title}  style={{ fontWeight: "bold!important", marginBottom: "20px!important" }}>
           Верхняя Пышма. Старотагильский тракт
         </Typography>
         <a href="tel:+79827448868" className={classes.link}>
