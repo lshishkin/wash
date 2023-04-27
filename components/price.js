@@ -29,7 +29,7 @@ export const Price = () => {
       <Typography variant="h6" mb={2}>
         от 1800
       </Typography>
-      <Typography variant="h6">Точные цены узнавайте по телефону</Typography>
+      <Typography variant="h6">Точные цены узнавайте по телефону. Работаем за наличный и безналичный расчет.</Typography>
     </Paper>
   );
 };
